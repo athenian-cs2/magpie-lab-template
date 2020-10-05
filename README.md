@@ -1,8 +1,8 @@
-# Cryptography Lab
+# Magpie Lab
 
-Please see the instructions in the Crypotgraphy Lab document on Canvas.
+Please see the instructions on Canvas.
 
-To run your code, go to the [Caesar.java](src/main/java/Caesar.java) and [Vigenere.java](src/main/java/Vigenere.java) files and click on `Run` above the `main()` method.
+To run your code, go to the [MagpieRunner.java](src/main/java/MagpieRunner.java) and file and click on `Run` above the `main()` method.
 
 ## Run your tests with:
 ```shell script
